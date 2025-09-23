@@ -1,0 +1,456 @@
+18-Jun-2025 11:45:15 INFO - HV000001: Hibernate Validator 8.0.2.Final
+18-Jun-2025 11:45:15 INFO - Starting LibraryManagementSystemApplication using Java 21.0.7 with PID 21148 (C:\Users\anish.mishra\Desktop\Spring Projects\LibraryManagementSystem\target\classes started by anish.mishra in C:\Users\anish.mishra\Desktop\Spring Projects\LibraryManagementSystem)
+18-Jun-2025 11:45:15 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Jun-2025 11:45:17 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+18-Jun-2025 11:45:17 INFO - Finished Spring Data repository scanning in 109 ms. Found 5 JPA repository interfaces.
+18-Jun-2025 11:45:18 INFO - Tomcat initialized with port 8080 (http)
+18-Jun-2025 11:45:18 INFO - Initializing ProtocolHandler ["http-nio-8080"]
+18-Jun-2025 11:45:18 INFO - Starting service [Tomcat]
+18-Jun-2025 11:45:18 INFO - Starting Servlet engine: [Apache Tomcat/10.1.41]
+18-Jun-2025 11:45:18 INFO - Initializing Spring embedded WebApplicationContext
+18-Jun-2025 11:45:18 INFO - Root WebApplicationContext: initialization completed in 2586 ms
+18-Jun-2025 11:45:18 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+18-Jun-2025 11:45:18 INFO - HHH000412: Hibernate ORM core version 6.6.15.Final
+18-Jun-2025 11:45:18 INFO - HHH000026: Second-level cache disabled
+18-Jun-2025 11:45:19 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+18-Jun-2025 11:45:19 INFO - HikariPool-1 - Starting...
+18-Jun-2025 11:45:20 INFO - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@727453a3
+18-Jun-2025 11:45:20 INFO - HikariPool-1 - Start completed.
+18-Jun-2025 11:45:20 INFO - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 17.5
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+18-Jun-2025 11:45:22 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+18-Jun-2025 11:45:24 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+18-Jun-2025 11:45:24 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+18-Jun-2025 11:45:25 INFO - Starting ProtocolHandler ["http-nio-8080"]
+18-Jun-2025 11:45:25 INFO - Tomcat started on port 8080 (http) with context path '/'
+18-Jun-2025 11:45:25 INFO - Started LibraryManagementSystemApplication in 11.041 seconds (process running for 14.196)
+18-Jun-2025 11:45:42 INFO - Commencing graceful shutdown. Waiting for active requests to complete
+18-Jun-2025 11:45:42 INFO - Graceful shutdown complete
+18-Jun-2025 11:45:42 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+18-Jun-2025 11:45:42 INFO - HikariPool-1 - Shutdown initiated...
+18-Jun-2025 11:45:42 INFO - HikariPool-1 - Shutdown completed.
+18-Jun-2025 11:46:12 INFO - HV000001: Hibernate Validator 8.0.2.Final
+18-Jun-2025 11:46:12 INFO - Starting LibraryManagementSystemApplication using Java 21.0.7 with PID 8916 (C:\Users\anish.mishra\Desktop\Spring Projects\LibraryManagementSystem\target\classes started by anish.mishra in C:\Users\anish.mishra\Desktop\Spring Projects\LibraryManagementSystem)
+18-Jun-2025 11:46:12 INFO - No active profile set, falling back to 1 default profile: "default"
+18-Jun-2025 11:46:13 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+18-Jun-2025 11:46:13 INFO - Finished Spring Data repository scanning in 136 ms. Found 5 JPA repository interfaces.
+18-Jun-2025 11:46:14 INFO - Tomcat initialized with port 8080 (http)
+18-Jun-2025 11:46:14 INFO - Initializing ProtocolHandler ["http-nio-8080"]
+18-Jun-2025 11:46:14 INFO - Starting service [Tomcat]
+18-Jun-2025 11:46:14 INFO - Starting Servlet engine: [Apache Tomcat/10.1.41]
+18-Jun-2025 11:46:14 INFO - Initializing Spring embedded WebApplicationContext
+18-Jun-2025 11:46:14 INFO - Root WebApplicationContext: initialization completed in 2630 ms
+18-Jun-2025 11:46:15 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+18-Jun-2025 11:46:15 INFO - HHH000412: Hibernate ORM core version 6.6.15.Final
+18-Jun-2025 11:46:15 INFO - HHH000026: Second-level cache disabled
+18-Jun-2025 11:46:16 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+18-Jun-2025 11:46:16 INFO - HikariPool-1 - Starting...
+18-Jun-2025 11:46:16 INFO - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@14df5253
+18-Jun-2025 11:46:16 INFO - HikariPool-1 - Start completed.
+18-Jun-2025 11:46:16 INFO - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 17.5
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+18-Jun-2025 11:46:18 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+18-Jun-2025 11:46:19 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+18-Jun-2025 11:46:20 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+18-Jun-2025 11:46:20 INFO - Starting ProtocolHandler ["http-nio-8080"]
+18-Jun-2025 11:46:20 INFO - Tomcat started on port 8080 (http) with context path '/'
+18-Jun-2025 11:46:20 INFO - Started LibraryManagementSystemApplication in 9.693 seconds (process running for 13.009)
+18-Jun-2025 11:48:11 INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18-Jun-2025 11:48:11 INFO - Initializing Servlet 'dispatcherServlet'
+18-Jun-2025 11:48:11 INFO - Completed initialization in 2 ms
+18-Jun-2025 11:48:11 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+18-Jun-2025 11:52:20 INFO - Commencing graceful shutdown. Waiting for active requests to complete
+18-Jun-2025 11:52:20 INFO - Graceful shutdown complete
+18-Jun-2025 11:52:20 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+18-Jun-2025 11:52:20 INFO - HikariPool-1 - Shutdown initiated...
+18-Jun-2025 11:52:20 INFO - HikariPool-1 - Shutdown completed.
+18-Jun-2025 11:52:27 INFO - HV000001: Hibernate Validator 8.0.2.Final
+18-Jun-2025 11:52:29 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+18-Jun-2025 11:52:29 INFO - Finished Spring Data repository scanning in 118 ms. Found 5 JPA repository interfaces.
+18-Jun-2025 11:52:30 INFO - Tomcat initialized with port 8080 (http)
+18-Jun-2025 11:52:30 INFO - Initializing ProtocolHandler ["http-nio-8080"]
+18-Jun-2025 11:52:30 INFO - Starting service [Tomcat]
+18-Jun-2025 11:52:30 INFO - Starting Servlet engine: [Apache Tomcat/10.1.41]
+18-Jun-2025 11:52:30 INFO - Initializing Spring embedded WebApplicationContext
+18-Jun-2025 11:52:30 INFO - Root WebApplicationContext: initialization completed in 2571 ms
+18-Jun-2025 11:52:31 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+18-Jun-2025 11:52:31 INFO - HHH000412: Hibernate ORM core version 6.6.15.Final
+18-Jun-2025 11:52:31 INFO - HHH000026: Second-level cache disabled
+18-Jun-2025 11:52:31 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+18-Jun-2025 11:52:31 INFO - HikariPool-1 - Starting...
+18-Jun-2025 11:52:32 INFO - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@37986daf
+18-Jun-2025 11:52:32 INFO - HikariPool-1 - Start completed.
+18-Jun-2025 11:52:32 INFO - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 17.5
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+18-Jun-2025 11:52:34 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+18-Jun-2025 11:52:35 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+18-Jun-2025 11:52:36 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+18-Jun-2025 11:52:37 INFO - Starting ProtocolHandler ["http-nio-8080"]
+18-Jun-2025 11:52:37 INFO - Tomcat started on port 8080 (http) with context path '/'
+18-Jun-2025 11:52:53 INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+18-Jun-2025 11:52:53 INFO - Initializing Servlet 'dispatcherServlet'
+18-Jun-2025 11:52:53 INFO - Completed initialization in 0 ms
+18-Jun-2025 11:52:54 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+18-Jun-2025 12:26:16 INFO - Commencing graceful shutdown. Waiting for active requests to complete
+18-Jun-2025 12:26:16 INFO - Graceful shutdown complete
+18-Jun-2025 12:26:16 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+18-Jun-2025 12:26:16 INFO - HikariPool-1 - Shutdown initiated...
+18-Jun-2025 12:26:16 INFO - HikariPool-1 - Shutdown completed.
+19-Jun-2025 10:30:38 INFO - HV000001: Hibernate Validator 8.0.2.Final
+19-Jun-2025 10:30:39 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+19-Jun-2025 10:30:39 INFO - Finished Spring Data repository scanning in 58 ms. Found 5 JPA repository interfaces.
+19-Jun-2025 10:30:39 INFO - Tomcat initialized with port 8080 (http)
+19-Jun-2025 10:30:39 INFO - Initializing ProtocolHandler ["http-nio-8080"]
+19-Jun-2025 10:30:39 INFO - Starting service [Tomcat]
+19-Jun-2025 10:30:39 INFO - Starting Servlet engine: [Apache Tomcat/10.1.41]
+19-Jun-2025 10:30:39 INFO - Initializing Spring embedded WebApplicationContext
+19-Jun-2025 10:30:39 INFO - Root WebApplicationContext: initialization completed in 1182 ms
+19-Jun-2025 10:30:40 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+19-Jun-2025 10:30:40 INFO - HHH000412: Hibernate ORM core version 6.6.15.Final
+19-Jun-2025 10:30:40 INFO - HHH000026: Second-level cache disabled
+19-Jun-2025 10:30:40 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+19-Jun-2025 10:30:40 INFO - HikariPool-1 - Starting...
+19-Jun-2025 10:30:40 INFO - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@762da62b
+19-Jun-2025 10:30:40 INFO - HikariPool-1 - Start completed.
+19-Jun-2025 10:30:40 INFO - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 17.5
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+19-Jun-2025 10:30:41 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+19-Jun-2025 10:30:41 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+19-Jun-2025 10:30:42 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+19-Jun-2025 10:30:42 INFO - Starting ProtocolHandler ["http-nio-8080"]
+19-Jun-2025 10:30:42 INFO - Tomcat started on port 8080 (http) with context path '/'
+19-Jun-2025 10:31:54 INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+19-Jun-2025 10:31:54 INFO - Initializing Servlet 'dispatcherServlet'
+19-Jun-2025 10:31:54 INFO - Completed initialization in 0 ms
+19-Jun-2025 10:31:55 INFO - Init duration for springdoc-openapi is: 238 ms
+19-Jun-2025 10:38:53 ERROR - org.springframework.web.servlet.resource.NoResourceFoundException: No static resource favicon.ico.
+19-Jun-2025 10:40:24 ERROR - org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Illegal unquoted character ((CTRL-CHAR, code 10)): has to be escaped using backslash to be included in string value
+19-Jun-2025 10:54:17 INFO - Commencing graceful shutdown. Waiting for active requests to complete
+19-Jun-2025 10:54:17 INFO - Graceful shutdown complete
+19-Jun-2025 10:54:17 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+19-Jun-2025 10:54:17 INFO - HikariPool-1 - Shutdown initiated...
+19-Jun-2025 10:54:17 INFO - HikariPool-1 - Shutdown completed.
+11-Jul-2025 10:16:46 INFO - Could not detect default configuration classes for test class [com.lms.LibraryManagementSystem.LibraryManagementSystemApplicationTests]: LibraryManagementSystemApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+11-Jul-2025 10:16:46 INFO - Found @SpringBootConfiguration com.lms.LibraryManagementSystem.LibraryManagementSystemApplication for test class com.lms.LibraryManagementSystem.LibraryManagementSystemApplicationTests
+11-Jul-2025 10:16:46 INFO - HV000001: Hibernate Validator 8.0.2.Final
+11-Jul-2025 10:16:47 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+11-Jul-2025 10:16:47 INFO - Finished Spring Data repository scanning in 103 ms. Found 5 JPA repository interfaces.
+11-Jul-2025 10:16:48 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+11-Jul-2025 10:16:48 INFO - HHH000412: Hibernate ORM core version 6.6.15.Final
+11-Jul-2025 10:16:48 INFO - HHH000026: Second-level cache disabled
+11-Jul-2025 10:16:49 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+11-Jul-2025 10:16:49 INFO - HikariPool-1 - Starting...
+11-Jul-2025 10:16:49 INFO - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@fbbd90c
+11-Jul-2025 10:16:49 INFO - HikariPool-1 - Start completed.
+11-Jul-2025 10:16:49 INFO - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 17.5
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+11-Jul-2025 10:16:51 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+11-Jul-2025 10:16:51 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+11-Jul-2025 10:16:52 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+11-Jul-2025 10:16:53 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+11-Jul-2025 10:16:53 INFO - HikariPool-1 - Shutdown initiated...
+11-Jul-2025 10:16:53 INFO - HikariPool-1 - Shutdown completed.
+11-Jul-2025 10:17:05 INFO - HV000001: Hibernate Validator 8.0.2.Final
+11-Jul-2025 10:17:05 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+11-Jul-2025 10:17:05 INFO - Finished Spring Data repository scanning in 42 ms. Found 5 JPA repository interfaces.
+11-Jul-2025 10:17:06 INFO - Tomcat initialized with port 8080 (http)
+11-Jul-2025 10:17:06 INFO - Initializing ProtocolHandler ["http-nio-8080"]
+11-Jul-2025 10:17:06 INFO - Starting service [Tomcat]
+11-Jul-2025 10:17:06 INFO - Starting Servlet engine: [Apache Tomcat/10.1.41]
+11-Jul-2025 10:17:06 INFO - Initializing Spring embedded WebApplicationContext
+11-Jul-2025 10:17:06 INFO - Root WebApplicationContext: initialization completed in 977 ms
+11-Jul-2025 10:17:06 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+11-Jul-2025 10:17:06 INFO - HHH000412: Hibernate ORM core version 6.6.15.Final
+11-Jul-2025 10:17:06 INFO - HHH000026: Second-level cache disabled
+11-Jul-2025 10:17:06 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+11-Jul-2025 10:17:06 INFO - HikariPool-1 - Starting...
+11-Jul-2025 10:17:07 INFO - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@5eb2972f
+11-Jul-2025 10:17:07 INFO - HikariPool-1 - Start completed.
+11-Jul-2025 10:17:07 INFO - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 17.5
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+11-Jul-2025 10:17:08 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+11-Jul-2025 10:17:08 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+11-Jul-2025 10:17:09 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+11-Jul-2025 10:17:09 INFO - Starting ProtocolHandler ["http-nio-8080"]
+11-Jul-2025 10:17:09 INFO - Tomcat started on port 8080 (http) with context path '/'
+11-Jul-2025 10:20:35 INFO - Commencing graceful shutdown. Waiting for active requests to complete
+11-Jul-2025 10:20:35 INFO - Graceful shutdown complete
+11-Jul-2025 10:20:35 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+11-Jul-2025 10:20:35 INFO - HikariPool-1 - Shutdown initiated...
+11-Jul-2025 10:20:35 INFO - HikariPool-1 - Shutdown completed.
+11-Jul-2025 10:20:42 INFO - HV000001: Hibernate Validator 8.0.2.Final
+11-Jul-2025 10:20:43 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+11-Jul-2025 10:20:43 INFO - Finished Spring Data repository scanning in 68 ms. Found 5 JPA repository interfaces.
+11-Jul-2025 10:20:43 INFO - Tomcat initialized with port 8080 (http)
+11-Jul-2025 10:20:43 INFO - Initializing ProtocolHandler ["http-nio-8080"]
+11-Jul-2025 10:20:43 INFO - Starting service [Tomcat]
+11-Jul-2025 10:20:43 INFO - Starting Servlet engine: [Apache Tomcat/10.1.41]
+11-Jul-2025 10:20:43 INFO - Initializing Spring embedded WebApplicationContext
+11-Jul-2025 10:20:43 INFO - Root WebApplicationContext: initialization completed in 1500 ms
+11-Jul-2025 10:20:43 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+11-Jul-2025 10:20:44 INFO - HHH000412: Hibernate ORM core version 6.6.15.Final
+11-Jul-2025 10:20:44 INFO - HHH000026: Second-level cache disabled
+11-Jul-2025 10:20:44 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+11-Jul-2025 10:20:44 INFO - HikariPool-1 - Starting...
+11-Jul-2025 10:20:44 INFO - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@13404f75
+11-Jul-2025 10:20:44 INFO - HikariPool-1 - Start completed.
+11-Jul-2025 10:20:44 INFO - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 17.5
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+11-Jul-2025 10:20:45 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+11-Jul-2025 10:20:46 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+11-Jul-2025 10:20:46 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+11-Jul-2025 10:20:47 INFO - Starting ProtocolHandler ["http-nio-8080"]
+11-Jul-2025 10:20:47 INFO - Tomcat started on port 8080 (http) with context path '/'
+11-Jul-2025 10:43:37 INFO - Commencing graceful shutdown. Waiting for active requests to complete
+11-Jul-2025 10:43:37 INFO - Graceful shutdown complete
+11-Jul-2025 10:43:37 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+11-Jul-2025 10:43:37 INFO - HikariPool-1 - Shutdown initiated...
+11-Jul-2025 10:43:37 INFO - HikariPool-1 - Shutdown completed.
+11-Jul-2025 10:43:42 INFO - HV000001: Hibernate Validator 8.0.2.Final
+11-Jul-2025 10:43:43 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+11-Jul-2025 10:43:43 INFO - Finished Spring Data repository scanning in 64 ms. Found 5 JPA repository interfaces.
+11-Jul-2025 10:43:44 INFO - Tomcat initialized with port 8080 (http)
+11-Jul-2025 10:43:44 INFO - Initializing ProtocolHandler ["http-nio-8080"]
+11-Jul-2025 10:43:44 INFO - Starting service [Tomcat]
+11-Jul-2025 10:43:44 INFO - Starting Servlet engine: [Apache Tomcat/10.1.41]
+11-Jul-2025 10:43:44 INFO - Initializing Spring embedded WebApplicationContext
+11-Jul-2025 10:43:44 INFO - Root WebApplicationContext: initialization completed in 1466 ms
+11-Jul-2025 10:43:44 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+11-Jul-2025 10:43:44 INFO - HHH000412: Hibernate ORM core version 6.6.15.Final
+11-Jul-2025 10:43:44 INFO - HHH000026: Second-level cache disabled
+11-Jul-2025 10:43:45 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+11-Jul-2025 10:43:45 INFO - HikariPool-1 - Starting...
+11-Jul-2025 10:43:45 INFO - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@3d718248
+11-Jul-2025 10:43:45 INFO - HikariPool-1 - Start completed.
+11-Jul-2025 10:43:45 INFO - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 17.5
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+11-Jul-2025 10:43:46 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+11-Jul-2025 10:43:47 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+11-Jul-2025 10:43:47 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+11-Jul-2025 10:43:48 INFO - Starting ProtocolHandler ["http-nio-8080"]
+11-Jul-2025 10:43:48 INFO - Tomcat started on port 8080 (http) with context path '/'
+11-Jul-2025 10:45:35 INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11-Jul-2025 10:45:35 INFO - Initializing Servlet 'dispatcherServlet'
+11-Jul-2025 10:45:35 INFO - Completed initialization in 0 ms
+11-Jul-2025 11:31:25 WARN - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m39s738ms856µs500ns).
+11-Jul-2025 14:12:18 WARN - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h42m21s993ms382µs200ns).
+11-Jul-2025 14:28:18 ERROR - org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/lms/user.
+11-Jul-2025 16:05:35 WARN - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m14s941ms608µs).
+11-Jul-2025 16:35:20 INFO - Commencing graceful shutdown. Waiting for active requests to complete
+11-Jul-2025 16:35:20 INFO - Graceful shutdown complete
+11-Jul-2025 16:35:20 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+11-Jul-2025 16:35:20 INFO - HikariPool-1 - Shutdown initiated...
+11-Jul-2025 16:35:20 INFO - HikariPool-1 - Shutdown completed.
+26-Jul-2025 20:15:28 INFO - HV000001: Hibernate Validator 8.0.2.Final
+26-Jul-2025 20:15:29 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+26-Jul-2025 20:15:29 INFO - Finished Spring Data repository scanning in 58 ms. Found 5 JPA repository interfaces.
+26-Jul-2025 20:15:29 INFO - Tomcat initialized with port 8080 (http)
+26-Jul-2025 20:15:29 INFO - Initializing ProtocolHandler ["http-nio-8080"]
+26-Jul-2025 20:15:29 INFO - Starting service [Tomcat]
+26-Jul-2025 20:15:29 INFO - Starting Servlet engine: [Apache Tomcat/10.1.41]
+26-Jul-2025 20:15:29 INFO - Initializing Spring embedded WebApplicationContext
+26-Jul-2025 20:15:29 INFO - Root WebApplicationContext: initialization completed in 1528 ms
+26-Jul-2025 20:15:30 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+26-Jul-2025 20:15:30 INFO - HHH000412: Hibernate ORM core version 6.6.15.Final
+26-Jul-2025 20:15:30 INFO - HHH000026: Second-level cache disabled
+26-Jul-2025 20:15:30 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+26-Jul-2025 20:15:30 INFO - HikariPool-1 - Starting...
+26-Jul-2025 20:15:30 INFO - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@949d347
+26-Jul-2025 20:15:30 INFO - HikariPool-1 - Start completed.
+26-Jul-2025 20:15:31 INFO - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 17.5
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+26-Jul-2025 20:15:32 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+26-Jul-2025 20:15:32 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+26-Jul-2025 20:15:32 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+26-Jul-2025 20:15:33 INFO - Starting ProtocolHandler ["http-nio-8080"]
+26-Jul-2025 20:15:33 INFO - Tomcat started on port 8080 (http) with context path '/'
+26-Jul-2025 20:15:49 INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+26-Jul-2025 20:15:49 INFO - Initializing Servlet 'dispatcherServlet'
+26-Jul-2025 20:15:49 INFO - Completed initialization in 0 ms
+26-Jul-2025 20:24:46 INFO - Commencing graceful shutdown. Waiting for active requests to complete
+26-Jul-2025 20:24:46 INFO - Graceful shutdown complete
+26-Jul-2025 20:24:46 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+26-Jul-2025 20:24:46 INFO - HikariPool-1 - Shutdown initiated...
+26-Jul-2025 20:24:46 INFO - HikariPool-1 - Shutdown completed.
+29-Jul-2025 11:29:14 INFO - HV000001: Hibernate Validator 8.0.2.Final
+29-Jul-2025 11:29:16 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+29-Jul-2025 11:29:16 INFO - Finished Spring Data repository scanning in 242 ms. Found 5 JPA repository interfaces.
+29-Jul-2025 11:29:17 INFO - Tomcat initialized with port 8080 (http)
+29-Jul-2025 11:29:17 INFO - Initializing ProtocolHandler ["http-nio-8080"]
+29-Jul-2025 11:29:17 INFO - Starting service [Tomcat]
+29-Jul-2025 11:29:17 INFO - Starting Servlet engine: [Apache Tomcat/10.1.41]
+29-Jul-2025 11:29:18 INFO - Initializing Spring embedded WebApplicationContext
+29-Jul-2025 11:29:18 INFO - Root WebApplicationContext: initialization completed in 3767 ms
+29-Jul-2025 11:29:18 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+29-Jul-2025 11:29:18 INFO - HHH000412: Hibernate ORM core version 6.6.15.Final
+29-Jul-2025 11:29:18 INFO - HHH000026: Second-level cache disabled
+29-Jul-2025 11:29:19 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+29-Jul-2025 11:29:19 INFO - HikariPool-1 - Starting...
+29-Jul-2025 11:29:20 INFO - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@3d718248
+29-Jul-2025 11:29:20 INFO - HikariPool-1 - Start completed.
+29-Jul-2025 11:29:20 INFO - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 17.5
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+29-Jul-2025 11:29:23 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+29-Jul-2025 11:29:24 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+29-Jul-2025 11:29:26 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+29-Jul-2025 11:29:27 INFO - Starting ProtocolHandler ["http-nio-8080"]
+29-Jul-2025 11:29:27 INFO - Tomcat started on port 8080 (http) with context path '/'
+29-Jul-2025 11:29:32 INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+29-Jul-2025 11:29:32 INFO - Initializing Servlet 'dispatcherServlet'
+29-Jul-2025 11:29:32 INFO - Completed initialization in 2 ms
+29-Jul-2025 12:54:41 WARN - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m19s500ms355µs200ns).
+29-Jul-2025 13:03:28 WARN - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m17s206ms753µs300ns).
+29-Jul-2025 14:19:27 WARN - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m57s956ms161µs200ns).
+29-Jul-2025 14:54:37 ERROR - org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.lms.LibraryManagementSystem.DTO.ResponseDTO> com.lms.LibraryManagementSystem.Controller.LibraryManagementSystemController.createUser(com.lms.LibraryManagementSystem.DTO.UsersDTO) throws com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: [Field error in object 'usersDTO' on field 'name': rejected value [SpiderMan]; codes [Pattern.usersDTO.name,Pattern.name,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [usersDTO.name,name]; arguments []; default message [name],[Ljakarta.validation.constraints.Pattern$Flag;@61813b4c,[A-Z][]a-z]+\s[A-Z][a-z]+]; default message [Name should be exactly 2 words!]] 
+29-Jul-2025 15:25:39 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:41 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:42 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:43 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:43 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:43 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:43 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:44 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:45 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:45 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:45 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:45 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:46 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:46 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:46 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:46 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:46 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:46 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:47 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:47 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:47 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:47 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:47 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:25:47 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:27:45 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: No user found with email: spidy@gmail.com
+29-Jul-2025 15:28:17 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: No user found with email: das1@gmail.com
+29-Jul-2025 15:29:41 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: No user found with email: das1@gmail.com
+29-Jul-2025 15:29:44 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: No user found with email: das1@gmail.com
+29-Jul-2025 15:30:49 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:30:59 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: User does not exist
+29-Jul-2025 15:31:57 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: No User found with email: spidy@gmail.com
+29-Jul-2025 15:38:58 ERROR - org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.lms.LibraryManagementSystem.DTO.ResponseDTO> com.lms.LibraryManagementSystem.Controller.LibraryManagementSystemController.addAuthorAndBook(com.lms.LibraryManagementSystem.DTO.AuthorsDTO) throws com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: [Field error in object 'authorsDTO' on field 'name': rejected value [Kabhi Na Likhne Wala Martin]; codes [Pattern.authorsDTO.name,Pattern.name,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [authorsDTO.name,name]; arguments []; default message [name],[Ljakarta.validation.constraints.Pattern$Flag;@61813b4c,[A-Z][]a-z]+\s[A-Z][a-z]+]; default message [Name should be exactly 2 words!]] 
+29-Jul-2025 15:39:07 WARN - SQL Error: 0, SQLState: 23503
+29-Jul-2025 15:39:07 ERROR - ERROR: insert or update on table "books" violates foreign key constraint "fkqb2rrlcshy07plus4qspykstw"
+  Detail: Key (author_id)=(4) is not present in table "users".
+29-Jul-2025 15:39:07 ERROR - org.springframework.dao.DataIntegrityViolationException: could not execute statement [ERROR: insert or update on table "books" violates foreign key constraint "fkqb2rrlcshy07plus4qspykstw"
+  Detail: Key (author_id)=(4) is not present in table "users".] [insert into books (author_id,name) values (?,?)]; SQL [insert into books (author_id,name) values (?,?)]; constraint [fkqb2rrlcshy07plus4qspykstw]
+29-Jul-2025 15:43:19 ERROR - org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.lms.LibraryManagementSystem.DTO.ResponseDTO> com.lms.LibraryManagementSystem.Controller.LibraryManagementSystemController.addAuthorAndBook(com.lms.LibraryManagementSystem.DTO.AuthorsDTO) throws com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: [Field error in object 'authorsDTO' on field 'name': rejected value [Jor MARTIN]; codes [Pattern.authorsDTO.name,Pattern.name,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [authorsDTO.name,name]; arguments []; default message [name],[Ljakarta.validation.constraints.Pattern$Flag;@61813b4c,[A-Z][]a-z]+\s[A-Z][a-z]+]; default message [Name should be exactly 2 words!]] 
+29-Jul-2025 15:43:32 ERROR - org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.lms.LibraryManagementSystem.DTO.ResponseDTO> com.lms.LibraryManagementSystem.Controller.LibraryManagementSystemController.addAuthorAndBook(com.lms.LibraryManagementSystem.DTO.AuthorsDTO) throws com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: [Field error in object 'authorsDTO' on field 'name': rejected value [Jor MARTIN]; codes [Pattern.authorsDTO.name,Pattern.name,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [authorsDTO.name,name]; arguments []; default message [name],[Ljakarta.validation.constraints.Pattern$Flag;@61813b4c,[A-Z][]a-z]+\s[A-Z][a-z]+]; default message [Name should be exactly 2 words!]] 
+29-Jul-2025 15:43:35 ERROR - org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<com.lms.LibraryManagementSystem.DTO.ResponseDTO> com.lms.LibraryManagementSystem.Controller.LibraryManagementSystemController.addAuthorAndBook(com.lms.LibraryManagementSystem.DTO.AuthorsDTO) throws com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: [Field error in object 'authorsDTO' on field 'name': rejected value [Jor MARTIN]; codes [Pattern.authorsDTO.name,Pattern.name,Pattern.java.lang.String,Pattern]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [authorsDTO.name,name]; arguments []; default message [name],[Ljakarta.validation.constraints.Pattern$Flag;@61813b4c,[A-Z][]a-z]+\s[A-Z][a-z]+]; default message [Name should be exactly 2 words!]] 
+29-Jul-2025 15:54:06 WARN - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m37s335ms193µs900ns).
+29-Jul-2025 16:13:59 ERROR - org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/lms/reviews/add/Go%20Thrones.
+29-Jul-2025 16:20:11 ERROR - org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [1] in public org.springframework.http.ResponseEntity<com.lms.LibraryManagementSystem.DTO.ResponseDTO> com.lms.LibraryManagementSystem.Controller.LibraryManagementSystemController.addReviewToBook(java.lang.String,com.lms.LibraryManagementSystem.DTO.ReviewsDTO) throws com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException with 2 errors: [Field error in object 'reviewsDTO' on field 'rating': rejected value [null]; codes [NotNull.reviewsDTO.rating,NotNull.rating,NotNull.java.lang.Integer,NotNull]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [reviewsDTO.rating,rating]; arguments []; default message [rating]]; default message [Rating cannot be null or blank]] [Field error in object 'reviewsDTO' on field 'comments': rejected value [null]; codes [NotBlank.reviewsDTO.comments,NotBlank.comments,NotBlank.java.lang.String,NotBlank]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [reviewsDTO.comments,comments]; arguments []; default message [comments]]; default message [Comments cannot be null or blank]] 
+29-Jul-2025 16:21:45 ERROR - org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/lms/reviews/add/Go%20Thrones.
+29-Jul-2025 16:23:43 ERROR - org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/lms/reviews/add/Go%20Thrones.
+29-Jul-2025 16:24:11 INFO - Commencing graceful shutdown. Waiting for active requests to complete
+29-Jul-2025 16:24:11 INFO - Graceful shutdown complete
+29-Jul-2025 16:24:11 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+29-Jul-2025 16:24:11 INFO - HikariPool-1 - Shutdown initiated...
+29-Jul-2025 16:24:11 INFO - HikariPool-1 - Shutdown completed.
+30-Jul-2025 11:31:52 INFO - HV000001: Hibernate Validator 8.0.2.Final
+30-Jul-2025 11:31:58 INFO - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+30-Jul-2025 11:31:58 INFO - Finished Spring Data repository scanning in 277 ms. Found 5 JPA repository interfaces.
+30-Jul-2025 11:32:00 INFO - Tomcat initialized with port 8080 (http)
+30-Jul-2025 11:32:00 INFO - Initializing ProtocolHandler ["http-nio-8080"]
+30-Jul-2025 11:32:00 INFO - Starting service [Tomcat]
+30-Jul-2025 11:32:00 INFO - Starting Servlet engine: [Apache Tomcat/10.1.41]
+30-Jul-2025 11:32:01 INFO - Initializing Spring embedded WebApplicationContext
+30-Jul-2025 11:32:01 INFO - Root WebApplicationContext: initialization completed in 8079 ms
+30-Jul-2025 11:32:02 INFO - HHH000204: Processing PersistenceUnitInfo [name: default]
+30-Jul-2025 11:32:02 INFO - HHH000412: Hibernate ORM core version 6.6.15.Final
+30-Jul-2025 11:32:02 INFO - HHH000026: Second-level cache disabled
+30-Jul-2025 11:32:04 INFO - No LoadTimeWeaver setup: ignoring JPA class transformer
+30-Jul-2025 11:32:04 INFO - HikariPool-1 - Starting...
+30-Jul-2025 11:32:05 INFO - HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@47b961e2
+30-Jul-2025 11:32:05 INFO - HikariPool-1 - Start completed.
+30-Jul-2025 11:32:05 INFO - HHH10001005: Database info:
+	Database JDBC URL [Connecting through datasource 'HikariDataSource (HikariPool-1)']
+	Database driver: undefined/unknown
+	Database version: 17.5
+	Autocommit mode: undefined/unknown
+	Isolation level: undefined/unknown
+	Minimum pool size: undefined/unknown
+	Maximum pool size: undefined/unknown
+30-Jul-2025 11:32:11 INFO - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+30-Jul-2025 11:32:13 INFO - Initialized JPA EntityManagerFactory for persistence unit 'default'
+30-Jul-2025 11:32:16 WARN - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+30-Jul-2025 11:32:19 INFO - Starting ProtocolHandler ["http-nio-8080"]
+30-Jul-2025 11:32:19 INFO - Tomcat started on port 8080 (http) with context path '/'
+30-Jul-2025 11:55:03 INFO - Initializing Spring DispatcherServlet 'dispatcherServlet'
+30-Jul-2025 11:55:03 INFO - Initializing Servlet 'dispatcherServlet'
+30-Jul-2025 11:55:03 INFO - Completed initialization in 0 ms
+30-Jul-2025 11:55:03 ERROR - org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/lms/reviews/add/Go%20Thrones.
+30-Jul-2025 11:57:48 ERROR - org.springframework.web.servlet.resource.NoResourceFoundException: No static resource api/lms/reviews/add.
+30-Jul-2025 12:02:39 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: No book found with title: fsaf
+30-Jul-2025 12:12:08 ERROR - com.lms.LibraryManagementSystem.Exception.LibraryManagementSystemException: No Book found by name: Go Thronesds
+30-Jul-2025 14:11:31 WARN - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h22m54s565ms221µs500ns).
+30-Jul-2025 14:26:39 INFO - Commencing graceful shutdown. Waiting for active requests to complete
+30-Jul-2025 14:26:39 INFO - Graceful shutdown complete
+30-Jul-2025 14:26:39 INFO - Closing JPA EntityManagerFactory for persistence unit 'default'
+30-Jul-2025 14:26:39 INFO - HikariPool-1 - Shutdown initiated...
+30-Jul-2025 14:26:39 INFO - HikariPool-1 - Shutdown completed.
